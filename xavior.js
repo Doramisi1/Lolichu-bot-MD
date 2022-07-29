@@ -3133,7 +3133,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 									{
 										"title": "Game Psikopat V1",
 										"rowId": `${prefix}psikopat1`
-									}
+									}, 
 									{
 										"title": "Game Psikopat V2",
 										"rowId": `${prefix}psikopat2`
