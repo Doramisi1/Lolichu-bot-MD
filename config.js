@@ -18,8 +18,8 @@ global.APIKeys = {
 // Yang Bisa Kelen Editzy 
 global.namabot = ['Ara']
 global.namaowner = ['EGA-GANS']
-global.owner = ['6281368176386','6283802603905','6281908052908']
-global.premium = ['6281368176386','6283802603905','6281908052908']
+global.owner = ['6281368176386','6283802603905','6283840588676','6281908052908']
+global.premium = ['6281368176386','6283802603905','6283840588676','6281908052908']
 global.packname = 'KANG-GOSTING'
 global.author = 'EGA-GANS'
 global.sessionName = 'Xavior'
